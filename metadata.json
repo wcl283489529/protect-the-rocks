@@ -1,0 +1,7 @@
+{
+  "name": "protect the rocks",
+  "description": "A high-performance, interactive particle fluid simulation featuring gravity, collision detection with obstacles, and glowing neon aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
